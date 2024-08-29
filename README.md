@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma">
 </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
+
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub de rfamiglietti](https://github-readme-stats.vercel.app/api?username=Matheus689&show_icons=true&theme=radical)
