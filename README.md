@@ -24,6 +24,11 @@
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
+<div>
+
+  <img align="center" height="204em" width="108em" src=https://pin.it/3oylzsKnZ>
+  
+</div>
 
 ### 📊 Minhas Estatísticas no GitHub
 
