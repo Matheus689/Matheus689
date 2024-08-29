@@ -2,9 +2,6 @@
 <h1 align="center">Matheus Barros </h1>
 <h3 align="center">Estudante de Desenvolvimento de sistemas </h3>
 
-<img src=>
-  </a>
-
 <!-- Social icons -->
 <p align="center">
   <a href=[linkedin] target="_blank">
