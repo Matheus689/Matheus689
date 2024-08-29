@@ -1,5 +1,6 @@
 <!-- Header -->
-<h1 align="center">Matheus Barros </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Barros.😄+;+Welcome+to+my+perfil.😎)](https://git.io/typing-svg)
+
 <h3 align="center">Estudante de Desenvolvimento de sistemas </h3>
 
 <!-- Social icons -->
