@@ -24,11 +24,11 @@
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg)
-<div>
 
-  <img align="center" height="204em" width="108em" src=https://pin.it/3oylzsKnZ>
-  
-</div>
+<div>
+       <img align="center" height="204em" widht="108em" margin-left="350px" src="https://media4.giphy.com/media/TUOSneOOtImPurKwph/giphy.webp?cid=790b76113hreawe9optkwfombaajipf2yevtwyorcwidnu3j&ep=v1_gifs_search&rid=giphy.webp&ct=gh">
+       <img align="left" height="204em" width="auto" src="https://media4.giphy.com/media/ieGY0lUwCCOdE8mlee/200.webp?cid=790b7611qb9q59agdqmy3r3xpjv670coyiby7yqsfjqcr5dz&ep=v1_gifs_search&rid=200.webp&ct=g">
+  </div>
 
 ### 📊 Minhas Estatísticas no GitHub
 
