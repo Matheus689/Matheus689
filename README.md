@@ -1,9 +1,8 @@
-<!-- Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matheus+Barros.😄+;+Welcome+to+my+perfil.😎)](https://git.io/typing-svg)
 
 <h3 align="center">Estudante de Desenvolvimento de sistemas </h3>
 
-<!-- Social icons -->
+
 <p align="center">
   <a href=[https://www.linkedin.com/in/matheus-barros-0199ba270/] target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
@@ -13,13 +12,11 @@
   <img src="https://streak-stats.demolab.com?user=Matheus689&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<!-- Introduction -->
 <p align="center">
   Olá, meu nome é Matheus Barros e sou estudante de Análise e Desenvolvimento de Sistemas. Além de fazer estudos para certificações em nuvem e outras tecnologias, buscando sempre estar atualizados e pronto para o mercado de trabalho.
 </p>
 
 
-<!-- Languages and tools -->
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
@@ -46,7 +43,10 @@
 
 ![Troféus de Perfil do GitHub](https://github-profile-trophy.vercel.app/?username=Matheus689&theme=onedark)
 
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus689&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus689&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-<!-- Animation -->
