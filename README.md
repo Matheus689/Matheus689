@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus689&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 <!-- Introduction -->
 <p align="center">
   Olá, meu nome é Matheus Barros e sou estudante de Análise e Desenvolvimento de Sistemas. Além de fazer estudos para certificações em nuvem e outras tecnologias, buscando sempre estar atualizados e pronto para o mercado de trabalho.
