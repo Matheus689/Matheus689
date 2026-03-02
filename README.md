@@ -33,7 +33,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 
-![Estatísticas do GitHub de Matheus689](https://github-readme-stats.vercel.app/api?username=Matheus689&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matheus689&show_icons=true&theme=radical)
 ### 🏆 Linguagens Mais Usadas
 
 
