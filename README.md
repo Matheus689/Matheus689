@@ -33,7 +33,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 
-![Estatísticas do GitHub de rfamiglietti](https://github-readme-stats.vercel.app/api?username=Matheus689&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Matheus689](https://github-readme-stats.vercel.app/api?username=Matheus689&show_icons=true&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus689&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### 🏆 Linguagens Mais Usadas
 
