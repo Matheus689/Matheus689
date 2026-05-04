@@ -35,7 +35,7 @@
   </div>
 
 ### 📊 Minhas Estatísticas no GitHub
-<img height="160" src="https://camo.githubusercontent.com/427a7110dfef146fb6cc533fdfc07d31a1a73ce22bc9a78318d32395926c22a4/68747470733a2f2f6769746875622d726561646d652d73746174732d74776f2d6e752d34656e66713338396a722e76657263656c2e6170702f6170693f757365726e616d653d6a756c696173696c7661303935372672616e6b5f69636f6e3d6769746875622673686f775f69636f6e733d74727565267468656d653d726f73655f70696e6526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Matheus689&amp;rank_icon=github&amp;show_icons=true&amp;theme=rose_pine&amp;count_private=true" style="max-width: 100%; height: auto; max-height: 160px;">
+
 
 
 
