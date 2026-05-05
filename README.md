@@ -33,22 +33,16 @@
        <img align="center" height="204em" widht="108em" margin-left="350px" src="https://media4.giphy.com/media/TUOSneOOtImPurKwph/giphy.webp?cid=790b76113hreawe9optkwfombaajipf2yevtwyorcwidnu3j&ep=v1_gifs_search&rid=giphy.webp&ct=gh">
        <img align="left" height="204em" width="auto" src="https://media4.giphy.com/media/ieGY0lUwCCOdE8mlee/200.webp?cid=790b7611qb9q59agdqmy3r3xpjv670coyiby7yqsfjqcr5dz&ep=v1_gifs_search&rid=200.webp&ct=g">
   </div>
+  
+---
 
 ### 📊 Minhas Estatísticas no GitHub
+![](https://github-readme-stats.shion.dev/api?username=Matheus689&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Matheus689&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🏆 Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus689&layout=compact&theme=radical)
-
-
+<img src="https://streak-stats.demolab.com?user=Matheus689&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 
 ### 🏆 Troféus de Perfil do GitHub
 ![Troféus de Perfil do GitHub](https://github-profile-trophy.vercel.app/?username=Matheus689&theme=onedark)
-
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus689&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
